@@ -4,8 +4,6 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Tools](tools)
-- [Results/Findings](results-findings)
 - [Recommendations](#recommendations)
 
 ### Project Overview 
