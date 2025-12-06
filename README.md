@@ -1,4 +1,4 @@
-<img width="1283" height="727" alt="overview" src="https://github.com/user-attachments/assets/262ebc4a-c9e7-4576-b282-d69ba4a6fbff" /># E-Commerce Sales Analysis
+
 
 ## Table of contents
 
