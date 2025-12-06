@@ -12,6 +12,8 @@
 This data analysis project aims to provide insight into exploring loyal customers, sales trends, channels that drive repeated purchases, and product performance.
 
 
+
+
 ### Data Sources 
 ---
 
