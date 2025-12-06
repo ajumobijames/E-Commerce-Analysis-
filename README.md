@@ -15,7 +15,7 @@ This data analysis project aims to provide insight into exploring loyal customer
 
 The dataset used for this project was provided by Onyx DataDNA for the Data challenge of the month of November 2025 containinf detailed information of the events, customers and products.
 
-![Uploading overview.png…]()
+
 
 ### Tools
 
