@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+<img width="1283" height="727" alt="overview" src="https://github.com/user-attachments/assets/262ebc4a-c9e7-4576-b282-d69ba4a6fbff" /># E-Commerce Sales Analysis
 
 ## Table of contents
 
@@ -10,9 +10,12 @@
 
 This data analysis project aims to provide insight into exploring loyal customers, sales trends, channels that drive repeated purchases, and product performance.
 
+
 ### Data Sources 
 
 The dataset used for this project was provided by Onyx DataDNA for the Data challenge of the month of November 2025 containinf detailed information of the events, customers and products.
+
+![Uploading overview.png…]()
 
 ### Tools
 
