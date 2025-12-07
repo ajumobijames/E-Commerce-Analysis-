@@ -11,9 +11,6 @@
 
 This data analysis project aims to provide insight into exploring loyal customers, sales trends, channels that drive repeated purchases, and product performance.
 
-
-
-
 ### Data Sources 
 ---
 
@@ -51,7 +48,6 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 ---
-
 Based on the analysis we recommend the following actions:
 
 1. Invest more in paid search, email and social acquisition channel to drive more loyal customers which automatically guarrantees for repeated purchases.
