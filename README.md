@@ -51,7 +51,13 @@ The analysis results are summarized as follows:
 Based on the analysis we recommend the following actions:
 
 1. Invest more in paid search, email and social acquisition channel to drive more loyal customers which automatically guarrantees for repeated purchases.
-2. Focus more on expanding and promoting the direct sales and reseller sales channel to drive in more revenue.
+2. Focus more on expanding and promoting the direct sales and reseller sales channel to drive in more revenue.\
+
+### Dashboard Screenshots
+
+![Dashboard Page 1](one.png)
+![Dashboard Page 2](two.png)
+![Dashboard Page 3](three.png)
 
 
 
