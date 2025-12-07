@@ -39,8 +39,8 @@ The dataset used for this project was provided by Onyx DataDNA for the Data chal
 
 ### Results/Findings
 ---
-
 The analysis results are summarized as follows:
+
 1. The loyal customers takes up 84.64% of the total revenue genrated by the company.
 2. Website channel generates the most revenue in comparison with the other event channel.
 3. Most of the customers are within the age group of 25-34.
@@ -54,7 +54,6 @@ Based on the analysis we recommend the following actions:
 2. Focus more on expanding and promoting the direct sales and reseller sales channel to drive in more revenue.
 
 
-   
 
 
 
